@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Rapido-Ride
-=======
-# Rapido Clone Web Application
+# Rapido-Ride Web Application
 
 This project is a clone of the Rapido bike application, built using React.js. Rapido is a popular bike-sharing and ride-hailing platform in India, providing convenient and affordable transportation solutions.
 
@@ -26,7 +23,7 @@ I make exact clone of  home, about, safety, careers, and contact pages. Addition
 
 ## Demo
 
-You can find a live demo of the application [here](https://rapido-clone-cris.netlify.app/safety).
+You can find a live demo of the application [here](https://rapido-ride.vercel.app/).
 
 ## Technologies Used
 
@@ -46,8 +43,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/developercris7/rapido-clone.git
-
+   git clone https://github.com/ByteMonk086/Rapido-Ride.git
 2. Navigate to the project directory:
 
 cd rapido-clone
@@ -62,4 +58,3 @@ Start the development server:
 
 npm start
 Open http://localhost:3000 in your browser to view the application.
->>>>>>> fdcfacd (Rapido Clone commit)
