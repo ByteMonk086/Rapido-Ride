@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/ByteMonk086/Rapido-Ride.git
 2. Navigate to the project directory:
 
-cd rapido-clone
+cd rapido-ride
 Install dependencies:
 
 3. Install dependencies:
